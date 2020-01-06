@@ -6,11 +6,6 @@ html {
     text-rendering: optimizeLegibility;
 }
 
-header {
-    font-size: 40px;
-    font-weight: 700;
-}
-
 a:link,
 a:visited {
     color: #008F50;
