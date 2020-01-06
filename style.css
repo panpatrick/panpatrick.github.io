@@ -3,10 +3,15 @@ html {
     color: #333;
     font-family: 'Rubik', 'Arial', sans-serif;
     font-size: 20px;
-/*    font-weight: 300; */
     text-rendering: optimizeLegibility;
 }
 
 header {
-    font-size: 48px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+a:link,
+a:visited {
+    color: #008F50;
 }
