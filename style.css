@@ -15,9 +15,3 @@ a:link,
 a:visited {
     color: #008F50;
 }
-
-@media (min-width: 640px) {
-  .content {
-    width: 100%;
-  }
-}
