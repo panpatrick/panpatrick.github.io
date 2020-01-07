@@ -18,6 +18,6 @@ a:visited {
 
 @media (min-width: 640px) {
   .content {
-    margin: 3em 16%;
+    width: 100%;
   }
 }
