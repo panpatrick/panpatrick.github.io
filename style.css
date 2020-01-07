@@ -6,6 +6,11 @@ html {
     text-rendering: optimizeLegibility;
 }
 
+.content {
+    margin: 100px;
+    box-sizing: border-box;
+}
+
 a:link,
 a:visited {
     color: #008F50;
