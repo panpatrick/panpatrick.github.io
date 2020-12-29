@@ -22,15 +22,15 @@ a:visited {
     color: #008F50;
 }
 
-@media only screen and (max-width: 775px) {
+@media only screen and (max-width: 815px) {
     .content {
         margin-left: 20px;
-        margin-right: 20px;
+        margin-right: 60px;
   }
 }
 
-@media only screen and (min-width: 776px) {
+@media only screen and (min-width: 816px) {
     .content {
-        width: 676px;
+        width: 700px;
   }
 }
