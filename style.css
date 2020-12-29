@@ -27,10 +27,17 @@ a:visited {
     color: #008F50;
 }
 
-@media only screen and (max-width: 815px) {
+@media only screen and (max-width: 758px) {
     .content {
-        margin-left: 50px;
-        margin-right: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+  }
+}
+
+@media only screen and (min-width: 759px) and (max-width: 815px){
+    .content {
+        margin-left: 20px;
+        margin-right: 80px;
   }
 }
 
